@@ -1,0 +1,4 @@
+CREATE TABLE attendance(Registration_number DOUBLE PRIMARY KEY PRIMARY KEY, student_name TEXT, Tdate DATE, atten TEXT);
+
+INSERT INTO attendance VALUES (123004,"Daniel","25/08.01","absent");
+

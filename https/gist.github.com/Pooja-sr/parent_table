@@ -1,0 +1,3 @@
+CREATE TABLE Parents (Registration_number DOUBLE PRIMARY KEY, Father_name TEXT, Mother_name TEXT, Father_phone_number TEXT, Mother_phone_number TEXT,Father_email TEXT,Mother_email TEXT, Father_profession TEXT, Mother_profession TEXT, emergency_contact TEXT);
+
+INSERT INTO Parents VALUES (123004," John", "Mary", "725272825","282372692","john.long@gmail.com", "mary.long@gmail.com"," Manager"," Designer",  "2761836127");
